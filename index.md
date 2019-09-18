@@ -30,4 +30,4 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 
 <div class="Contact Me">
 <h2>Contact Me!</h2>
-<p>My email adress is: <a href ="stevencoombe2000@gmail.com"></a></p>
+<p>My email adress is: <a href ="mailto:stevencoombe2000@gmail.com">My Email</a></p>
