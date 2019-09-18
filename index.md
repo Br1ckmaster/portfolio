@@ -27,3 +27,7 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 <li>View my <a href ="https://github.com/stevencoombe" title="Linkedin Profile">GitHub profile</a>!</li>
 </ul>
 </div>
+
+<div class="Contact Me">
+<h2>Contact Me!</h2>
+<p>My email adress is: <a href ="stevencoombe2000@gmail.com"></a></p>
