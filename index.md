@@ -1,6 +1,7 @@
 <div class="About Me">
 <h2>About Me!</h2>
-<p> Test </p>
+<p>Hello, I am a games programmer. <br>
+  I have been programming for over years now.</p>
 </div>
 
 <h2>Games/Projects I Have Worked On!</h2>
@@ -30,4 +31,4 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 
 <div class="Contact Me">
 <h2>Contact Me!</h2>
-<p><a href ="mailto:stevencoombe2000@gmail.com">My Email Adress</a></p>
+<p><a href ="mailto:stevencoombe2000@gmail.com">My Email Address</a></p>
