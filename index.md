@@ -23,7 +23,7 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 <h2>Contact Me!</h2>
 <p>Here are links to my social media accounts:</p>
 <ul>
-<li>View my <a href ="https://www.linkedin.com/in/steven-coombe/" title="Linkedin Profile">Linkedin profile!</a>!</li>
-<li>View my <a href ="https://github.com/stevencoombe" title="Linkedin Profile">GitHub profile!</a>!</li>
+<li>View my <a href ="https://www.linkedin.com/in/steven-coombe/" title="Linkedin Profile">Linkedin profile</a>!</li>
+<li>View my <a href ="https://github.com/stevencoombe" title="Linkedin Profile">GitHub profile</a>!</li>
 </ul>
 </div>
