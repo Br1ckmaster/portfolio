@@ -9,6 +9,7 @@ This was the first game I worked on in a team and it took approximately 2 months
 <h4> Trailer for Cat Burglar! </h4>
 {% include youtubePlayer.html %}
 
-For more information about Cat Burglar, the source code, and the people who worked on it, click [here](https://github.com/stevencoombe/Game-Dev-Sim/ "Cat Burglar GitHub Page")!
+<p>For more information about Cat Burglar, the source code, and the people who worked on it, 
+click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burglar GitHub Page">here</a>! </p>
 
 You can download and play Cat Burglar [here](https://github.com/stevencoombe/Game-Dev-Sim/releases "Cat Burglar Dowload")!
