@@ -1,7 +1,6 @@
 <div class="About Me">
 <h2>About Me!</h2>
-<p>Hello, I am a games programmer. <br>
-  I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. From there on I have been constantly learning and improving my programming skills.</p>
+<p>Hello, I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. From there on I have been constantly learning and improving my programming skills.</p>
 </div>
 
 <h2>Games/Projects I Have Worked On!</h2>
