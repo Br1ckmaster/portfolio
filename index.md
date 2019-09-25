@@ -1,7 +1,7 @@
 <div class="About Me">
 <h2>About Me!</h2>
 <p>Hello, I am a games programmer. <br>
-  I have been programming for over years now.</p>
+  I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. From there on I have been constantly learning and improving my programming skills.</p>
 </div>
 
 <h2>Games/Projects I Have Worked On!</h2>
@@ -9,7 +9,8 @@
 <div class="Cat Burglar">
 <h3><u>Cat Burglar</u></h3>
 <p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
-This was the first game I worked on in a team and it took approximately 2 months to create Cat Burglar.</p>
+<br>
+This was the first game I worked on in a team. It took approximately 2 months to create Cat Burglar.</p>
 
 <h4>Trailer for Cat Burglar!</h4>
 {% include youtubePlayer.html %}
