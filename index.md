@@ -20,6 +20,13 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 <p>You can download & play Cat Burglar <a href ="https://github.com/stevencoombe/Game-Dev-Sim/releases" title="Cat Burglar Dowload">here</a>!</p>
 </div>
 
+<div class="Firefight">
+<h3><u>Firefight</u></h3>
+<p>Firefight is an action puzzle, local co-op game, that has you play as two office workers escaping a burning office building by working together.<br>
+<br>
+Firefight is the first game that I developed using Unreal Engine 4. Currently it is still in development, but screenshots, trailer and more information will be added. </p>
+</div>
+
 <div class="Social Media">
 <h2>Social Media!</h2>
 <p>Here are links to my social media accounts:</p>
