@@ -1,6 +1,6 @@
 <div class="About Me">
 <h2>About Me!</h2>
-<p>Hello, I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. From there on I have been constantly learning and improving my programming skills.</p>
+<p>Hello! I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. From there on I have been constantly learning & improving my programming skills.</p>
 </div>
 
 <h2>Games/Projects I Have Worked On!</h2>
@@ -14,10 +14,10 @@ This was the first game I worked on in a team. It took approximately 2 months to
 <h4>Trailer for Cat Burglar!</h4>
 {% include youtubePlayer.html %}
 
-<p>For more information about Cat Burglar, the source code, and the people who worked on it, 
+<p>For more information about Cat Burglar, the source code, & the people who worked on it, 
 click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burglar GitHub Page">here</a>!</p>
 
-<p>You can download and play Cat Burglar <a href ="https://github.com/stevencoombe/Game-Dev-Sim/releases" title="Cat Burglar Dowload">here</a>!</p>
+<p>You can download & play Cat Burglar <a href ="https://github.com/stevencoombe/Game-Dev-Sim/releases" title="Cat Burglar Dowload">here</a>!</p>
 </div>
 
 <div class="Social Media">
