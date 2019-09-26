@@ -27,7 +27,7 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 <h3><u>Firefight</u></h3>
 <p>Firefight is an action puzzle, local co-op game, that has you play as two office workers escaping a burning office building by working together.<br>
 <br>
-Firefight is the first game that I developed using Unreal Engine 4. Currently it is still in development, but screenshots, trailer and more information will be added. </p>
+Firefight is the first game that I am developing in Unreal Engine 4. The team developing Firefight consists of 3 artists, a designer and programmer(me). Currently it is still in development, but screenshots, trailer and more information will be added. </p>
 </div>
 
 <div class="Social Media">
