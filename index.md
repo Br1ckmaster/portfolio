@@ -5,10 +5,9 @@
 
 <h2>Games/Projects I Have Worked On!</h2>
 
-<a href = "pages/catburglar.html" title="Cat Burglar">Cat Burglar</a>
+<a href = "pages/catburglar.html" title="Cat Burglar"><h3>Cat Burglar</h3></a>
 
 <div class="Cat Burglar">
-<h3><u>Cat Burglar</u></h3>
 <p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
 <br>
 This was the first game I worked on in a team. It took approximately 2 months to create Cat Burglar.<br>
