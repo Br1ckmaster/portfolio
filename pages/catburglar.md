@@ -1,3 +1,4 @@
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <div class="Cat Burglar">
 <h2>Cat Burglar!</h2>
 <p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
@@ -12,4 +13,5 @@ This was the first game I worked on in a team. It took approximately 2 months to
 click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burglar GitHub Page">here</a>!</p>
 
 <p>You can download & play Cat Burglar <a href ="https://github.com/stevencoombe/Game-Dev-Sim/releases" title="Cat Burglar Dowload">here</a>!</p>
+<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 </div>
