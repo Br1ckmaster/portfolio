@@ -3,13 +3,17 @@
 <h2>Cat Burglar!</h2>
 <p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
 <br>
-This was the first game I worked on in a team. It took approximately 2 months to create Cat Burglar.<br>
+This was the first game I worked on in a team. I really enjoyed creating Cat Burglar because we hit all of our goals, and the end product is fantastic. It took approximately 2 months to create Cat Burglar.<br>
+The other team members for Cat Burglar were: <br />
+Ryan Dempsey - Designer <br />
+Liam Gollan - Artist <br />
+Jayden Senior - Artist <br />
 </p>
 
 <h4>Trailer for Cat Burglar!</h4>
 {% include youtubePlayer.html %}
 
-<p>For more information about Cat Burglar, the source code, & the people who worked on it, 
+<p>For more information about Cat Burglar and the source code, 
 click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burglar GitHub Page">here</a>.</p>
 
 <p>You can download & play Cat Burglar by clicking the button below.</p>
