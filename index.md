@@ -3,17 +3,13 @@
 <p>Hello! I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. From there on I have been constantly learning & improving my programming skills.</p>
 </div>
 
+<div class="Projects">
 <h2>Games/Projects I Have Worked On!</h2>
 
 <h3><a href = "pages/catburglar.html" title="Cat Burglar">Cat Burglar</a></h3>
-
-<div class="Firefight">
-<h3><u>Firefight</u></h3>
-<p>Firefight is an action puzzle, local co-op game, that has you play as two office workers escaping a burning office building by working together.<br>
-<br>
-Firefight is the first game that I am developing in Unreal Engine 4. The team that developed Firefight consisted of 3 artists, a designer and programmer(me). </p>
-<img src = "images/Firefight/Screenshot1.png"/>
+<h3><a href = "pages/firefight.html" title="Firefight">Firefight</a></h3>
 </div>
+
 
 <div class="Social Media">
 <h2>Social Media!</h2>
