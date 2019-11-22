@@ -5,6 +5,8 @@
 
 <h2>Games/Projects I Have Worked On!</h2>
 
+<a href = "pages/catburglar.html" title="Cat Burglar">Cat Burglar</a>
+
 <div class="Cat Burglar">
 <h3><u>Cat Burglar</u></h3>
 <p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
