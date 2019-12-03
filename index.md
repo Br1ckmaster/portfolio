@@ -5,7 +5,6 @@
 
 <div class="Projects">
 <h2>Games/Projects I Have Worked On!</h2>
-
 <h3><a href = "pages/catburglar.html" title="Cat Burglar">Cat Burglar</a></h3>
 <h3><a href = "pages/firefight.html" title="Firefight">Firefight</a></h3>
 </div>

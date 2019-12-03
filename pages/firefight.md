@@ -17,4 +17,5 @@ Shane Dalton - Designer <br>
 <img src = "../images/Firefight/Screenshot2.png"/>
 <img src = "../images/Firefight/Screenshot3.png"/>
 
+<a href = "https://stevencoombe.github.io/Portfolio/">Home</a>
 </div>
