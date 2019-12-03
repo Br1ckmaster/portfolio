@@ -14,7 +14,7 @@ Firefight is the first game that I have developed in Unreal Engine 4. Prior to t
 <a href = "https://www.linkedin.com/in/shanedaltondesign/">LinkedIn Profile</a> <br> </li>
 </ul>
 </p>
-<h4>Firefight Screenshots!</h4>
+<h4>SCreenshots for Firefight!</h4>
 <img src = "../images/Firefight/Screenshot1.png"/>
 <img src = "../images/Firefight/Screenshot2.png"/>
 <img src = "../images/Firefight/Screenshot3.png"/>
