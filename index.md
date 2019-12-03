@@ -21,4 +21,13 @@
 
 <div class="Contact Me">
 <h2>Contact Me!</h2>
-<p><a href ="mailto:stevencoombe2000@gmail.com">My Email Address</a>.</p>
+<form
+  action="https://formspree.io/myyzpnvq"
+  method="POST"
+>
+<form action="https://formspree.io/myyzpnvq" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+</div>
