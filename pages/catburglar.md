@@ -4,15 +4,13 @@
 <p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
 This was the first game I worked on in a team. I really enjoyed creating Cat Burglar because we hit all of our goals, and the end product is fantastic. It took approximately 2 months to create Cat Burglar.<br></p>
 <p>The other developers of Cat Burglar are: <br>
+
 Ryan Dempsey - Designer <br>
-https://www.linkedin.com/in/ryanjdempsey/ <br>
-<br>
+<a href = "https://www.linkedin.com/in/ryanjdempsey/"</a> <br>
 Liam Gollan - Environment Artist <br>
-https://www.linkedin.com/in/liam-gollan/ <br>
-<br>
+<a href = "https://www.linkedin.com/in/liam-gollan/"</a> <br>
 Jayden Senior - Character Artist <br>
-https://www.linkedin.com/in/jayden-senior/ <br>
-<br>
+<a href = "https://www.linkedin.com/in/jayden-senior/"</a> <br>
 </p>
 
 <h4>Trailer for Cat Burglar!</h4>
