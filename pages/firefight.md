@@ -18,6 +18,5 @@ Firefight is the first game that I have developed in Unreal Engine 4. Prior to t
 <img src = "../images/Firefight/Screenshot1.png"/>
 <img src = "../images/Firefight/Screenshot2.png"/>
 <img src = "../images/Firefight/Screenshot3.png"/>
-</br>
 <a href = "https://stevencoombe.github.io/Portfolio/">Home</a>
 </div>
