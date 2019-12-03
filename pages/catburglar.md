@@ -16,7 +16,7 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 </p>
 
 <h4>Trailer for Cat Burglar!</h4>
-{% include youtubePlayer.html %}
+{% include youtubePlayerCatburglar.html %}
 
 <p>For more information about Cat Burglar and the source code, 
 click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burglar GitHub Page">here</a>.</p>
