@@ -6,11 +6,11 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 <p>The other developers of Cat Burglar are: <br>
 
 Ryan Dempsey - Designer <br>
-<a href = "https://www.linkedin.com/in/ryanjdempsey/"</a> <br>
+<a href = "https://www.linkedin.com/in/ryanjdempsey/"></a> <br>
 Liam Gollan - Environment Artist <br>
-<a href = "https://www.linkedin.com/in/liam-gollan/"</a> <br>
+<a href = "https://www.linkedin.com/in/liam-gollan/"></a> <br>
 Jayden Senior - Character Artist <br>
-<a href = "https://www.linkedin.com/in/jayden-senior/"</a> <br>
+<a href = "https://www.linkedin.com/in/jayden-senior/"></a> <br>
 </p>
 
 <h4>Trailer for Cat Burglar!</h4>
