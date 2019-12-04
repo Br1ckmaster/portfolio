@@ -27,11 +27,11 @@
   method="POST"
 >
 <form action="https://formspree.io/myyzpnvq" method="POST">
-	<label>Your Name:</label>
+	<label>Your Name:</label><br>
 	<input type="text" name="name" required><br>
-	<label>Your Email Address:</label>
+	<label>Your Email Address:</label><br>
 	<input type="email" name="_replyto" required><br>
-	<label>Your Message:</label>
+	<label>Your Message:</label><br>
 	<textarea name="message"></textarea><br>
 	<button>Submit</button><br>
 </form>
