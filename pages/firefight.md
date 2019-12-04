@@ -1,4 +1,3 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 <body>
 <div class="Firefight">
 <h2>Firefight!</h2>

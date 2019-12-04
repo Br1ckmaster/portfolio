@@ -38,11 +38,6 @@
 <h2>About Me!</h2>
 <p>Hello! I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. From there on I have been constantly learning & improving my programming skills.</p>
 </div>
-<div class="Projects">
-<h2>Games/Projects I Have Worked On!</h2>
-<h3><a href = "pages/catburglar.html" title="Cat Burglar">Cat Burglar - Unity</a></h3>
-<h3><a href = "pages/firefight.html" title="Firefight">Firefight - Unreal Engine 4</a></h3>
-</div>
 
 <div class="Social Media">
 <h2>Social Media!</h2>
