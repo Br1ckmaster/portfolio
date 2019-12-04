@@ -30,3 +30,5 @@ light: dark; dark: dark;" data-icon="octicon-cloud-download" data-size="large" a
 dark; light: dark; dark: dark;" data-size="large" aria-label="Home">Home</a>
 </div>
 </body>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/stevencoombe/Portfolio" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Issue ntkme/github-buttons on GitHub">Issue</a>
