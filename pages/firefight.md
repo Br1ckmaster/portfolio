@@ -39,20 +39,20 @@
 <h2>Firefight!</h2>
 <p>Firefight is an action puzzle, local co-op game, that has you play as two office workers escaping a burning office building by working together.<br>
 Firefight is the first game that I have developed in Unreal Engine 4. Prior to that, I had no experience in using the Unreal 4 Engine. I am happy that the game turned out good considering I 
-had no idea how the engine worked. It took approximately 5 months to create Firefight.<br></p>
+had no idea how Unreal Engine 4 worked. It took approximately 5 months to create Firefight.<br></p>
 <p>The other developers of Firefight are: <br>
 <ul>
 <li>Hannah Holden - Character Artist <br>
-<a href = "https://www.linkedin.com/in/hannahholden015/" title="Linkedin Profile">LinkedIn Profile</a> <br> 
-<a href = "https://www.artstation.com/hannahholden/" title="ArtStation">ArtStation</a> <br> </li>
+<a href = "https://www.linkedin.com/in/hannahholden015/" title="Hannah's LinkedIn">LinkedIn Profile</a> <br> 
+<a href = "https://www.artstation.com/hannahholden/" title="Hannah's ArtStation">ArtStation</a> <br> </li>
 <li>Tassia Jaric - Environment Artist <br>
-<a href = "https://www.linkedin.com/in/tassiajaric/" title="Linkedin Profile">LinkedIn Profile</a> <br>
-<a href = "https://www.artstation.com/tassiajaric/" title="ArtStation">ArtStation</a> <br> </li>
+<a href = "https://www.linkedin.com/in/tassiajaric/" title="Tassia's LinkedIn">LinkedIn Profile</a> <br>
+<a href = "https://www.artstation.com/tassiajaric/" title="Tassia's ArtStation">ArtStation</a> <br> </li>
 <li>John Kim - VFX Artist <br>
-<a href = "https://www.linkedin.com/in/johnkim92/" title="Linkedin Profile">LinkedIn Profile</a> <br>
-<a href = "https://www.artstation.com/john_kim/" title="ArtStation">ArtStation</a> <br> </li>
+<a href = "https://www.linkedin.com/in/johnkim92/" title="John's LinkedIn">LinkedIn Profile</a> <br>
+<a href = "https://www.artstation.com/john_kim/" title="John's ArtStation">ArtStation</a> <br> </li>
 <li>Shane Dalton - Designer <br>
-<a href = "https://www.linkedin.com/in/shanedaltondesign/" title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/shanedaltondesign/" title="Shane's LinkedIn">LinkedIn Profile</a> <br> </li>
 </ul>
 </p>
 
