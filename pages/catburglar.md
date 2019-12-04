@@ -46,9 +46,11 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 <li>Ryan Dempsey - Designer <br>
 <a href = "https://www.linkedin.com/in/ryanjdempsey/" title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
 <li>Liam Gollan - Environment Artist <br>
-<a href = "https://www.linkedin.com/in/liam-gollan/" title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/liam-gollan/" title="Linkedin Profile">LinkedIn Profile</a> <br>
+<a href = "https://www.artstation.com/lgollan/" title="ArtStation">ArtStation</a> <br> </li>
 <li>Jayden Senior - Character Artist <br>
-<a href = "https://www.linkedin.com/in/jayden-senior/" title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/jayden-senior/" title="Linkedin Profile">LinkedIn Profile</a> <br>
+<a href = "https://www.artstation.com/jae700/" title="ArtStation">ArtStation</a> <br> </li>
 </ul>
 </p>
 
