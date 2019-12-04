@@ -1,3 +1,37 @@
+<style>
+.topnav
+{
+	overflow: hidden;
+	background-color: #333;
+}
+
+.topnav a
+{
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover 
+{
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active 
+{
+  background-color: #bbbfbc;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+<a class="active" href="https://stevencoombe.github.io/Portfolio/">Home</a>
+<a href="pages/catburglar.html">Projects/Games</a>
+
 <body>
 <div class="About Me">
 <h2>About Me!</h2>
