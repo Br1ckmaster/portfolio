@@ -58,7 +58,7 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 <p>For more information about Cat Burglar and the source code, 
 click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burglar GitHub Page">here</a>.</p>
 
-<p>You can download & play Cat Burglar by clicking the button below.</p>
+<p>You can download & play Cat Burglar by clicking the download button below.</p>
 <a class="github-button" href="https://github.com/stevencoombe/Game-Dev-Sim/releases/download/1.0/Cat.Burglar.v1.0.zip" data-color-scheme="no-preference: dark; 
 light: dark; dark: dark;" data-icon="octicon-cloud-download" data-size="large" aria-label="Download Cat Burglar" title="Cat Burglar Download">Download</a>
 <br>
