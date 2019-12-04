@@ -7,13 +7,13 @@ Firefight is the first game that I have developed in Unreal Engine 4. Prior to t
 <p>The other developers of Firefight are: <br>
 <ul>
 <li>Hannah Holden - Character Artist <br>
-<a href = "https://www.linkedin.com/in/hannahholden015/"title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/hannahholden015/" title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
 <li>Tassia Jaric - Environment Artist <br>
-<a href = "https://www.linkedin.com/in/tassiajaric/"title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/tassiajaric/" title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
 <li>John Kim - VFX Artist <br>
-<a href = "https://www.linkedin.com/in/johnkim92/"title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/johnkim92/" title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
 <li>Shane Dalton - Designer <br>
-<a href = "https://www.linkedin.com/in/shanedaltondesign/"title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/shanedaltondesign/" title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
 </ul>
 </p>
 <h4>SCreenshots for Firefight!</h4>
