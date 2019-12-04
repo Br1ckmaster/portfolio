@@ -27,6 +27,6 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 light: dark; dark: dark;" data-icon="octicon-cloud-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 <br>
 <a class="github-button" href="https://stevencoombe.github.io/Portfolio/" data-color-scheme="no-preference: 
-dark; light: dark; dark: dark;" data-size="large" aria-label="Follow @ntkme on GitHub">Home</a>
+dark; light: dark; dark: dark;" data-size="large" aria-label="Home">Home</a>
 </div>
 </body>

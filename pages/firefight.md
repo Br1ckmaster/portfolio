@@ -1,3 +1,4 @@
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <body>
 <div class="Firefight">
 <h2>Firefight!</h2>
@@ -24,6 +25,6 @@ Firefight is the first game that I have developed in Unreal Engine 4. Prior to t
 {% include youtubePlayerFirefight.html %}
 
 <a class="github-button" href="https://stevencoombe.github.io/Portfolio/" data-color-scheme="no-preference: 
-dark; light: dark; dark: dark;" data-size="large" aria-label="Follow @ntkme on GitHub">Home</a>
+dark; light: dark; dark: dark;" data-size="large" aria-label="HOme">Home</a>
 </div>
 </body>
