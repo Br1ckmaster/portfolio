@@ -26,7 +26,9 @@
   method="POST"
 >
 <form action="https://formspree.io/myyzpnvq" method="POST">
+<p> Your Name: </p> <br>
   <input type="text" name="name"> <br>
+  <p> Your Email Address: </p> <br>
   <input type="email" name="_replyto"> <br>
   <input type="submit" value="Send"> <br>
 </form>
