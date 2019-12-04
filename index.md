@@ -22,10 +22,6 @@
 <div class="Contact Me">
 <h2>Contact Me!</h2>
 <p> Fill out the email form below, and I will get back to you as soon as possible. </p>
-<form
-  action="https://formspree.io/myyzpnvq"
-  method="POST"
->
 <form action="https://formspree.io/myyzpnvq" method="POST">
 	<label>Your Name:</label><br>
 	<input type="text" name="name" required><br>
