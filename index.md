@@ -9,7 +9,6 @@
 <h3><a href = "pages/firefight.html" title="Firefight">Firefight - Unreal Engine 4</a></h3>
 </div>
 
-
 <div class="Social Media">
 <h2>Social Media!</h2>
 <p>Here are links to my social media accounts:</p>
