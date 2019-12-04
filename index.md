@@ -26,8 +26,7 @@
   method="POST"
 >
 <form action="https://formspree.io/myyzpnvq" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+  <input type="text" name="name"> <br>
+  <input type="email" name="_replyto"> <br>
+  <input type="submit" value="Send"> <br>
 </form>
-</div>
