@@ -37,16 +37,12 @@
 <body>
 <div class="About Me">
 <h2>About Me!</h2>
-<p>Hello! I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. From there on I have been constantly learning & improving my programming skills.</p>
-</div>
-
-<div class="Social Media">
-<h2>Social Media!</h2>
+<p>Hello! I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. 
+From there on I have been constantly learning & improving my programming skills.</p>
 <p>Here are links to my social media accounts:</p>
 <ul>
 	<li>View my <a href ="https://www.linkedin.com/in/steven-coombe/" title="Linkedin Profile">Linkedin profile</a>.</li>
 	<li>View my <a href ="https://github.com/stevencoombe" title="GitHub Profile">GitHub profile</a>.</li>
 </ul>
-</div>
 
 </body>
