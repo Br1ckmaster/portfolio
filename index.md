@@ -44,5 +44,4 @@ From there on I have been constantly learning & improving my programming skills.
 	<li>View my <a href ="https://www.linkedin.com/in/steven-coombe/" title="Linkedin Profile">Linkedin profile</a>.</li>
 	<li>View my <a href ="https://github.com/stevencoombe" title="GitHub Profile">GitHub profile</a>.</li>
 </ul>
-
 </body>
