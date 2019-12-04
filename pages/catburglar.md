@@ -50,7 +50,7 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 <a href = "https://www.artstation.com/lgollan/" title="Liam's ArtStation">ArtStation</a> <br> </li>
 <li>Jayden Senior - Character Artist <br>
 <a href = "https://www.linkedin.com/in/jayden-senior/" title="Jayden's LinkedIn">LinkedIn Profile</a> <br>
-<a href = "https://www.artstation.com/jae700/" title="ArtStation">Jayden's ArtStation</a> <br> </li>
+<a href = "https://www.artstation.com/jae700/" title="Jayden's ArtStation">Jayden's ArtStation</a> <br> </li>
 </ul>
 </p>
 
