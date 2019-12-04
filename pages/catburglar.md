@@ -39,6 +39,7 @@
 <div class="Cat Burglar">
 <h2>Cat Burglar!</h2>
 <p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
+<br>
 This was the first game I worked on in a team. I really enjoyed creating Cat Burglar because we hit all of our goals, and the end product is fantastic. It took approximately 2 months to create Cat Burglar.<br></p>
 <p>The other developers of Cat Burglar are: <br>
 
