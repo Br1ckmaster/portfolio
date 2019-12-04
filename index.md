@@ -21,6 +21,7 @@
 
 <div class="Contact Me">
 <h2>Contact Me!</h2>
+<p> Fill out the email form below, and I will get back to you as soon as possible. </p>
 <form
   action="https://formspree.io/myyzpnvq"
   method="POST"
@@ -30,5 +31,7 @@
   <input type="text" name="name"> <br>
   <p> Your Email Address: </p>
   <input type="email" name="_replyto"> <br>
+  <p> Your Message: </p>
+  <textarea name="message"></textarea> <br>
   <input type="submit" value="Send"> <br>
 </form>
