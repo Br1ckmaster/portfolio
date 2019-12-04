@@ -1,9 +1,3 @@
-<style>
-	#contact_form
-	{
-		text-align: left;
-	}
-</style>
 <body>
 <div class="About Me">
 <h2>About Me!</h2>
@@ -20,14 +14,14 @@
 <p>Here are links to my social media accounts:</p>
 <ul>
 	<li>View my <a href ="https://www.linkedin.com/in/steven-coombe/" title="Linkedin Profile">Linkedin profile</a>.</li>
-	<li>View my <a href ="https://github.com/stevencoombe" title="Linkedin Profile">GitHub profile</a>.</li>
+	<li>View my <a href ="https://github.com/stevencoombe" title="GitHub Profile">GitHub profile</a>.</li>
 </ul>
 </div>
 
 <div class="Contact Me">
 <h2>Contact Me!</h2>
 <p> Fill out the email form below, and I will get back to you as soon as possible. </p>
-<form id="contact_form" action="https://formspree.io/myyzpnvq" method="POST">
+<form action="https://formspree.io/myyzpnvq" method="POST">
 <label>Your Name:</label><br>
 <input type="text" name="name" required><br>
 <label>Your Email Address:</label><br>

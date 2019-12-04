@@ -8,11 +8,11 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 
 <ul>
 <li>Ryan Dempsey - Designer <br>
-<a href = "https://www.linkedin.com/in/ryanjdempsey/">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/ryanjdempsey/"title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
 <li>Liam Gollan - Environment Artist <br>
-<a href = "https://www.linkedin.com/in/liam-gollan/">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/liam-gollan/"title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
 <li>Jayden Senior - Character Artist <br>
-<a href = "https://www.linkedin.com/in/jayden-senior/">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/jayden-senior/"title="Linkedin Profile">LinkedIn Profile</a> <br> </li>
 </ul>
 </p>
 
@@ -24,9 +24,9 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 
 <p>You can download & play Cat Burglar by clicking the button below.</p>
 <a class="github-button" href="https://github.com/stevencoombe/Game-Dev-Sim/releases/download/1.0/Cat.Burglar.v1.0.zip" data-color-scheme="no-preference: dark; 
-light: dark; dark: dark;" data-icon="octicon-cloud-download" data-size="large" aria-label="Download Cat Burglar">Download</a>
+light: dark; dark: dark;" data-icon="octicon-cloud-download" data-size="large" aria-label="Download Cat Burglar" title="Cat Burglar Download">Download</a>
 <br>
-<a href="https://stevencoombe.github.io/Portfolio/">Home</a>
+<a href="https://stevencoombe.github.io/Portfolio/" title="Home">Home</a>
 
 </div>
 </body>
