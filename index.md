@@ -32,6 +32,6 @@
 	<label>Your Email Address:</label><br>
 	<input type="email" name="_replyto" required><br>
 	<label>Your Message:</label><br>
-	<textarea name="message"></textarea><br>
+	<textarea name="message" rows="10" cols="50"></textarea><br>
 	<button>Submit</button><br>
 </form>
