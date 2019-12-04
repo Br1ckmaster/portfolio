@@ -1,4 +1,5 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+<body>
 <div class="Cat Burglar">
 <h2>Cat Burglar!</h2>
 <p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
@@ -27,3 +28,4 @@ light: dark; dark: dark;" data-icon="octicon-cloud-download" aria-label="Downloa
 <br>
 <a href = "https://stevencoombe.github.io/Portfolio/">Home</a>
 </div>
+</body>
