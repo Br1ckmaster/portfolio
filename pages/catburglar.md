@@ -24,7 +24,7 @@ click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burgla
 
 <p>You can download & play Cat Burglar by clicking the button below.</p>
 <a class="github-button" href="https://github.com/stevencoombe/Game-Dev-Sim/releases/download/1.0/Cat.Burglar.v1.0.zip" data-color-scheme="no-preference: dark; 
-light: dark; dark: dark;" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
+light: dark; dark: dark;" data-icon="octicon-cloud-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 <br>
 <button onclickl="window.location.href= 'https://stevencoombe.github.io/Portfolio/';">Home</button>
 </div>
