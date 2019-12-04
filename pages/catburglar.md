@@ -1,4 +1,39 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+<style>
+.topnav
+{
+	overflow: hidden;
+	background-color: #333;
+}
+
+.topnav a
+{
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover 
+{
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active 
+{
+  background-color: #bbbfbc;
+  color: white;
+}
+</style>
+
+<div class="topnav">
+<a href="https://stevencoombe.github.io/Portfolio/">Home</a>
+<a class="active" href="projects.html">Projects/Games</a>
+</div>
+
 <body>
 <div class="Cat Burglar">
 <h2>Cat Burglar!</h2>
