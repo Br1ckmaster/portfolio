@@ -38,7 +38,8 @@
 <div class="Firefight">
 <h2>Firefight!</h2>
 <p>Firefight is an action puzzle, local co-op game, that has you play as two office workers escaping a burning office building by working together.<br>
-Firefight is the first game that I have developed in Unreal Engine 4. Prior to that, I had no experience in using the Unreal 4 Engine. It took approximately 5 months to create Firefight.<br></p>
+Firefight is the first game that I have developed in Unreal Engine 4. Prior to that, I had no experience in using the Unreal 4 Engine. I am happy that the game turned out good considering I 
+had no idea how the engine worked. It took approximately 5 months to create Firefight.<br></p>
 <p>The other developers of Firefight are: <br>
 <ul>
 <li>Hannah Holden - Character Artist <br>
