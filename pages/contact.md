@@ -41,9 +41,9 @@
 <p> Fill out the email form below, and I will get back to you as soon as possible. </p>
 <form action="https://formspree.io/myyzpnvq" method="POST">
 <label>Your Name:</label><br>
-<input type="text" name="name" required><br>
+<input type="text" name="Name" required><br>
 <label>Your Email Address:</label><br>
-<input type="email" name="_replyto" required><br>
+<input type="email" name="Reply To" required><br>
 <label>Your Message:</label><br>
 <textarea name="message" rows="10" cols="50"></textarea><br>
 <button>Submit</button><br>
