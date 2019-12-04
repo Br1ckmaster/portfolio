@@ -58,7 +58,5 @@ Firefight is the first game that I have developed in Unreal Engine 4. Prior to t
 <h4>Gameplay for Firefight!</h4>
 {% include youtubePlayerFirefight.html %}
 
-<a href="https://stevencoombe.github.io/Portfolio/" title="Home">Home</a>
-
 </div>
 </body>
