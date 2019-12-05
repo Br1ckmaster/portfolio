@@ -53,10 +53,11 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 <a href = "https://www.linkedin.com/in/jayden-senior/" title="Jayden's LinkedIn">LinkedIn Profile</a> <br>
 <a href = "https://www.artstation.com/jae700/" title="Jayden's ArtStation">Jayden's ArtStation</a> <br> </li>
 </ul>
+Watch the trailer below to see some gameplay of Cat Burglar. Thumbnail art was made by Jayden.
 </p>
 
+
 <h4>Trailer for Cat Burglar!</h4>
-<p>Thumbnail art made by Jayden</p> <br>
 {% include youtubePlayerCatburglar.html %}
 
 <p>For more information about Cat Burglar & the source code, 
