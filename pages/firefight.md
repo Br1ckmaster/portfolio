@@ -53,7 +53,8 @@ had no idea how Unreal Engine 4 worked. It took approximately 5 months to create
 <a href = "https://www.linkedin.com/in/johnkim92/" title="John's LinkedIn">LinkedIn Profile</a> <br>
 <a href = "https://www.artstation.com/john_kim/" title="John's ArtStation">ArtStation</a> <br> </li>
 <li>Shane Dalton - Designer <br>
-<a href = "https://www.linkedin.com/in/shanedaltondesign/" title="Shane's LinkedIn">LinkedIn Profile</a> <br> </li>
+<a href = "https://www.linkedin.com/in/shanedaltondesign/" title="Shane's LinkedIn">LinkedIn Profile</a> <br>
+<a href = "https://www.artstation.com/shanedalton/" title="Shane's ArtStation">ArtStation</a> <br> </li>
 </ul>
 </p>
 
