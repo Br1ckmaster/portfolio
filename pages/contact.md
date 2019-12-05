@@ -38,7 +38,8 @@
 
 <div class="Contact Me">
 <h2>Contact Me!</h2>
-<p> Fill out the email form below, and I will get back to you as soon as possible. </p>
+<p> You can contact me through my email at: stevencoombe2000@gmail.com </p>
+<p> Or you can fill out the email form below, and I will get back to you as soon as possible. </p>
 <form action="https://formspree.io/myyzpnvq" method="POST">
 <label>Your Name:</label><br>
 <input type="text" name="Name" required><br>
