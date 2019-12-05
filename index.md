@@ -37,7 +37,8 @@
 <div class="About Me">
 <h2>About Me!</h2>
 <p>Hello! I am a games programmer who has been programming for over 4 years now. It all started off learning HTML/CSS & JavaScript on Codecademy. 
-From there on I have been constantly learning & improving my programming skills.</p>
+From there I went to learn C++ and C# at Academy of Interactive Entertainment (AIE). I have been constantly been learning & improving my programming skills, & I hope that one day
+I will get to release a successful game.</p>
 <p>Here are the links to my social media accounts:</p>
 <ul>
 	<li>View my <a href ="https://www.linkedin.com/in/steven-coombe/" title="Linkedin Profile">Linkedin profile</a>.</li>

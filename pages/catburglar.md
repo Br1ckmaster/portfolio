@@ -38,9 +38,9 @@
 <body>
 <div class="Cat Burglar">
 <h2>Cat Burglar!</h2>
-<p>Cat Burglar is a stealth game, where the player must sneak around a house at night and search through the resident’s belongings looking for valuable items to steal.<br>
+<p>Cat Burglar is a stealth game, where the player must sneak around a house at night & search through the resident’s belongings looking for valuable items to steal.<br>
 <br>
-This was the first game I worked on in a team. I really enjoyed creating Cat Burglar because we hit all of our goals, and the end product is fantastic. It took approximately 2 months to create Cat Burglar.<br></p>
+This was the first game I worked on in a team. I really enjoyed creating Cat Burglar because we hit all of our goals, & the end product is fantastic. It took approximately 2 months to create Cat Burglar.<br></p>
 <p>The other developers of Cat Burglar are: <br>
 
 <ul>
@@ -58,7 +58,7 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 <h4>Trailer for Cat Burglar!</h4>
 {% include youtubePlayerCatburglar.html %}
 
-<p>For more information about Cat Burglar and the source code, 
+<p>For more information about Cat Burglar & the source code, 
 click <a href ="https://github.com/stevencoombe/Game-Dev-Sim/" title="Cat Burglar GitHub Page">here</a>.</p>
 
 <p>You can download & play Cat Burglar by clicking the download button below.</p>
