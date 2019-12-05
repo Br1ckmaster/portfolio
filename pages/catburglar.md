@@ -56,7 +56,7 @@ This was the first game I worked on in a team. I really enjoyed creating Cat Bur
 </p>
 
 <h4>Trailer for Cat Burglar!</h4>
-<p>Thumbnail art made by Jayden</p>
+<p>Thumbnail art made by Jayden</p> <br>
 {% include youtubePlayerCatburglar.html %}
 
 <p>For more information about Cat Burglar & the source code, 
