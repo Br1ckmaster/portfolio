@@ -55,6 +55,7 @@ had no idea how Unreal Engine 4 worked. It took approximately 5 months to create
 <li>Shane Dalton - Designer <br>
 <a href = "https://www.artstation.com/shanedalton/" title="Shane's ArtStation">ArtStation</a> <br> </li>
 </ul>
+Watch the gameplay footage below to get an idea on what Firefight is. Thumbnail art was made by Tassia.
 </p>
 
 <h4>Gameplay of Firefight!</h4>
