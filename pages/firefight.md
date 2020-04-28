@@ -53,7 +53,7 @@ had no idea how Unreal Engine 4 worked. It took approximately 5 months to create
 <a href = "https://www.linkedin.com/in/johnkim92/" title="John's LinkedIn">LinkedIn Profile</a> <br>
 <a href = "https://www.artstation.com/john_kim/" title="John's ArtStation">ArtStation</a> <br> </li>
 <li>Shane Dalton - Designer <br>
-<a href = "https://onlyfans.com/shanemakesgames/" title="Shane's Social Media">Social Media</a> <br> </li>
+<a href = "https://www.linkedin.com/in/shanedaltondesign/" title="Shane's Social Media">Social Media</a> <br> </li>
 </ul>
 Watch the gameplay footage below to get an idea on what Firefight is. Thumbnail art was made by Tassia.
 </p>
