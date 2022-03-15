@@ -39,7 +39,7 @@
 <h2>Roll With It!</h2>
 <p>Roll With It is a 3D platformer that has you take control of Rolling Ball-Tron or also known as RBT, who needs to repair a rocket to escape the junkyard.<br>
 <br>
-Roll With It! was made in 48 hours at the 2020 Game Jam. This game was extremely fun to not only make, but to also play. It was made purely with the UE4 blueprint system. 
+Roll With It! is a game that was made in 48 hours at the 2020 Game Jam. There were 5 of us plus a music composer that helped create Roll WIth It! It was made purely with the UE4 blueprint system. 
 Game Jam was honestly a well worth experience, and I hope to attend another Game Jam at some point in the future!<br></p>
 
 <h4>Screenshots of Roll With It!</h4>
