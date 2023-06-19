@@ -31,7 +31,6 @@
 <div class="topnav">
 <a class="active" href="https://stevencoombe.github.io/Portfolio/">Home</a>
 <a href="pages/projects.html">Projects/Games</a>
-<a href="pages/contact.html">Contact</a>
 </div>
 
 <div class="About Me">
